@@ -1,0 +1,106 @@
+2023-03-19 04:59:26.858 - Thread:   1 ->  Log Started
+2023-03-19 04:59:26.864 - Thread:   1 ->  Timezone (local - UTC): 9h
+2023-03-19 04:59:26.864 - Thread:   1 ->  App Version: 
+2023-03-19 04:59:27.178 - Thread:   1 ->  Creating Direct3D
+2023-03-19 04:59:27.580 - Thread:   1 ->  Creating Direct3D - success
+2023-03-19 04:59:28.802 - Thread:   1 ->  Loading adapters
+2023-03-19 04:59:28.862 - Thread:   1 ->  MyGraphicTest.TestDX() - START
+2023-03-19 04:59:29.802 - Thread:   1 ->        WMI Data
+2023-03-19 04:59:29.935 - Thread:   1 ->        Caption:    Intel(R) HD Graphics Family
+2023-03-19 04:59:29.936 - Thread:   1 ->        RAM:    1073741824
+2023-03-19 04:59:29.936 - Thread:   1 ->        Driver version:    20.19.15.4300
+2023-03-19 04:59:29.936 - Thread:   1 ->        Driver date:    20151001000000.000000-000
+2023-03-19 04:59:29.936 - Thread:   1 ->        Description:    Intel(R) HD Graphics Family
+2023-03-19 04:59:29.936 - Thread:   1 ->        DeviceID:    VideoController1
+2023-03-19 04:59:29.936 - Thread:   1 ->        Name:    Intel(R) HD Graphics Family
+2023-03-19 04:59:29.936 - Thread:   1 ->        VideoProcessor:    Intel(R) HD Graphics Family
+2023-03-19 04:59:29.936 - Thread:   1 ->        VideoArchitecture:    5
+2023-03-19 04:59:29.936 - Thread:   1 ->        PNPDeviceID:    PCI\VEN_8086&DEV_0A16&SUBSYS_0A168086&REV_0B\3&11583659&0&10
+2023-03-19 04:59:29.936 - Thread:   1 ->        InstalledDisplayDrivers:    igdumdim64.dll,igd10iumd64.dll,igd10iumd64.dll,igd12umd64.dll
+2023-03-19 04:59:29.936 - Thread:   1 ->        -------------------------------------------
+2023-03-19 04:59:29.944 - Thread:   1 ->     Good graphics in WMI detected: False
+2023-03-19 04:59:29.945 - Thread:   1 ->     Debug runtime enabled: False
+2023-03-19 04:59:29.945 - Thread:   1 ->     Adapter count: 1
+2023-03-19 04:59:29.945 - Thread:   1 ->     Found adapter: Intel(R) HD Graphics Family (\\.\DISPLAY2)
+2023-03-19 04:59:29.945 - Thread:   1 ->     Adapter count: 1
+2023-03-19 04:59:29.945 - Thread:   1 ->     Adapters count: 1
+2023-03-19 04:59:29.945 - Thread:   1 ->     Adapter array count: 1
+2023-03-19 04:59:29.945 - Thread:   1 ->     Adapter Intel(R) HD Graphics Family: \\.\DISPLAY2
+2023-03-19 04:59:30.035 - Thread:   1 ->     d3d handle ok 
+2023-03-19 04:59:30.076 - Thread:   1 ->     MyGraphicTest.TestCurrentSettings() - START
+2023-03-19 04:59:30.148 - Thread:   1 ->           Ordinal ID: 0x0A16
+2023-03-19 04:59:30.148 - Thread:   1 ->           Description: Intel(R) HD Graphics Family
+2023-03-19 04:59:30.148 - Thread:   1 ->           Vendor ID: 0x8086
+2023-03-19 04:59:30.148 - Thread:   1 ->           Device name: \\.\DISPLAY2
+2023-03-19 04:59:30.148 - Thread:   1 ->           Device identifier: d7b78e66-4956-11cf-faf3-192ab7c2d935
+2023-03-19 04:59:30.148 - Thread:   1 ->           Driver name: igdumdim32.dll
+2023-03-19 04:59:30.148 - Thread:   1 ->           DirectX Driver version: 20.19.15.4300
+2023-03-19 04:59:30.148 - Thread:   1 ->           Identifier of the adapter chip: 0x0A16
+2023-03-19 04:59:30.148 - Thread:   1 ->           Adapter certified: NO
+2023-03-19 04:59:30.148 - Thread:   1 ->           Adapter revision: 11
+2023-03-19 04:59:30.148 - Thread:   1 ->           Subsystem ID: 0x0A168086
+2023-03-19 04:59:30.148 - Thread:   1 ->           WHQL level: 0
+2023-03-19 04:59:30.148 - Thread:   1 ->           Vertex shader version: 3.0
+2023-03-19 04:59:30.148 - Thread:   1 ->           Pixel shader version:  3.0
+2023-03-19 04:59:30.149 - Thread:   1 ->           Max primitives count:  8388607
+2023-03-19 04:59:30.149 - Thread:   1 ->           Max texture width:     8192
+2023-03-19 04:59:30.149 - Thread:   1 ->           Max texture height:    8192
+2023-03-19 04:59:30.149 - Thread:   1 ->           Max vertex streams:    16
+2023-03-19 04:59:30.149 - Thread:   1 ->           Max render targets:    4
+2023-03-19 04:59:30.154 - Thread:   1 ->     MyGraphicTest.TestCurrentSettings() - END
+2023-03-19 04:59:30.155 - Thread:   1 ->     Rgba1010102Supported: True
+2023-03-19 04:59:30.155 - Thread:   1 ->     MipmapNonPow2Supported: True
+2023-03-19 04:59:30.155 - Thread:   1 ->     HDRSupported: True
+2023-03-19 04:59:30.155 - Thread:   1 ->     Create query
+2023-03-19 04:59:30.155 - Thread:   1 ->     Dispose query
+2023-03-19 04:59:30.156 - Thread:   1 ->     Queries supported: True
+2023-03-19 04:59:30.187 - Thread:   1 ->     Good graphics in DX detected: False
+2023-03-19 04:59:30.187 - Thread:   1 ->     Is better graphics available: False
+2023-03-19 04:59:30.187 - Thread:   1 ->  MyGraphicTest.TestDX() - END
+2023-03-19 04:59:30.187 - Thread:   1 ->  Found adapters
+2023-03-19 04:59:30.187 - Thread:   1 ->  Adapter: Intel(R) HD Graphics Family (DISPLAY2)
+2023-03-19 04:59:30.187 - Thread:   1 ->  Details: \\.\DISPLAY2
+2023-03-19 04:59:30.187 - Thread:   1 ->  Description: Intel(R) HD Graphics Family
+2023-03-19 04:59:35.018 - Thread:   1 ->  Warning: Textures\Particles\ParticlesAtlas.tai not found.
+2023-03-19 04:59:35.248 - Thread:   1 ->  MyFont.Ctor - START
+2023-03-19 04:59:35.334 - Thread:   1 ->     Font filename: Fonts\white\FontData.xml
+2023-03-19 04:59:35.376 - Thread:   1 ->     FontFilePath: F:\Game Programmer - testing task v1.02\bin\x86\Debug\Content\Fonts\white\FontData.xml
+2023-03-19 04:59:35.377 - Thread:   1 ->     LineHeight: 37
+2023-03-19 04:59:35.377 - Thread:   1 ->     Baseline: 30
+2023-03-19 04:59:35.377 - Thread:   1 ->     KernEnabled: True
+2023-03-19 04:59:35.377 - Thread:   1 ->  MyFont.Ctor - END
+2023-03-19 04:59:35.377 - Thread:   1 ->  MyFont.Ctor - START
+2023-03-19 04:59:35.410 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontData.xml
+2023-03-19 04:59:35.417 - Thread:   1 ->     FontFilePath: F:\Game Programmer - testing task v1.02\bin\x86\Debug\Content\Fonts\white_shadow\FontData.xml
+2023-03-19 04:59:35.417 - Thread:   1 ->     LineHeight: 37
+2023-03-19 04:59:35.417 - Thread:   1 ->     Baseline: 30
+2023-03-19 04:59:35.417 - Thread:   1 ->     KernEnabled: True
+2023-03-19 04:59:35.417 - Thread:   1 ->  MyFont.Ctor - END
+2023-03-19 04:59:39.945 - Thread:   1 ->  MyFont.Ctor - START
+2023-03-19 04:59:39.973 - Thread:   1 ->     Font filename: Fonts\white\FontData.xml
+2023-03-19 04:59:39.993 - Thread:   1 ->     FontFilePath: F:\Game Programmer - testing task v1.02\bin\x86\Debug\Content\Fonts\white\FontData.xml
+2023-03-19 04:59:39.993 - Thread:   1 ->     LineHeight: 37
+2023-03-19 04:59:39.993 - Thread:   1 ->     Baseline: 30
+2023-03-19 04:59:39.993 - Thread:   1 ->     KernEnabled: True
+2023-03-19 04:59:39.993 - Thread:   1 ->  MyFont.Ctor - END
+2023-03-19 04:59:40.099 - Thread:   1 ->  MyFont.Ctor - START
+2023-03-19 04:59:40.126 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontData.xml
+2023-03-19 04:59:40.133 - Thread:   1 ->     FontFilePath: F:\Game Programmer - testing task v1.02\bin\x86\Debug\Content\Fonts\white_shadow\FontData.xml
+2023-03-19 04:59:40.133 - Thread:   1 ->     LineHeight: 37
+2023-03-19 04:59:40.133 - Thread:   1 ->     Baseline: 30
+2023-03-19 04:59:40.133 - Thread:   1 ->     KernEnabled: True
+2023-03-19 04:59:40.133 - Thread:   1 ->  MyFont.Ctor - END
+2023-03-19 04:59:41.641 - Thread:   1 ->  Warning: Textures\Particles\ParticlesAtlas.tai not found.
+2023-03-19 05:01:09.389 - Thread:   1 ->  Testing task results: 
+Hits static: 114
+Hits moving: 26
+Miss: 1
+Hit ratio: 99%
+
+GC Count: 33
+GC Collected: 6,104,492 B (ok)
+Processing time: 938 ms
+Score: 374
+Precise collision accuracy: 100.000000%
+Precise collision time: 41 ms
+Query accuracy: 100.000000%
